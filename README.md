@@ -1,8 +1,8 @@
 ## Titanic Survival | EDA and Modeling
 
 **Project Type**: Machine Learning | Classification  
-**Tools Used**: Python, Pandas, Matplotlib, Seaborn, Scikit-Learn, XGBoost
-**Dataset**: Titanic: Machine Learning from Disaster (Kaggle)
+**Tools Used**: Python, Pandas, Matplotlib, Seaborn, Scikit-Learn, XGBoost    
+**Dataset**: Titanic: Machine Learning from Disaster [Kaggle](https://www.kaggle.com/competitions/titanic)
 
 ### **Objective**  
 The objective of this project is to predict survival outcomes of passengers on the Titanic based on various features such as age, sex, class, and other demographics. This analysis aims to identify key factors influencing survival and build a predictive model for survival prediction.
